@@ -8,7 +8,7 @@ These are the app's screenshots(follow the route):
 
 - ![Optional Text](./Mockup/Header-Module.png)
 - ![Optional Text](Mockup/Left-side-Module.png)
-- ![Optional Text](./Mockup/Header-Module)
+- ![Optional Text](./Mockup/Right-side-Module.png)
 
 # What I learned
 
