@@ -8,15 +8,15 @@ These are the app's screenshots(follow the route):
 
 - Header Website
 
-![Optional Text](./Mockup/Header-Module.png)
+![Header](./Mockup/Header-Module.png)
 
  - Left side
 
-![Optional Text](Mockup/Left-side-Module.png)
+![Left Side](Mockup/Left-side-Module.png)
 
  - Right side
 
-![Optional Text](./Mockup/Right-side-Module.png)
+![Right Side](./Mockup/Right-side-Module.png)
 
 
 # What I learned
