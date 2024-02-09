@@ -22,16 +22,18 @@ This project uses the amazing Rick and Morty API. (https://rickandmortyapi.com/)
 
 # Tecnologies
 
-- JavaScript (React Library)
-- CSS
-- HTML
-- BEM
+* JavaScript (React Library)
+* CSS
+* HTML
+* BEM
 
 # Run locally
 
 For more information about the API check here
 
+```
 git clone https://github.com/abiasV/Rick-and-Morty.git
 cd rick-and-morty
 npm i
 npm run dev
+```
