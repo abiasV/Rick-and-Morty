@@ -6,21 +6,20 @@ The Rick and Morty API is a RESTful and GraphQL API based on the television show
 
 These are the app's screenshots(follow the route):
 
-- Header Website
- ![Optional Text](./Mockup/Header-Module.png)
+-   Header Website
+    ![Optional Text](./Mockup/Header-Module.png)
 
- - Left side
- ![Optional Text](Mockup/Left-side-Module.png)
+-   Left side
+    ![Optional Text](Mockup/Left-side-Module.png)
 
- -Right side
- ![Optional Text](./Mockup/Right-side-Module.png)
-
+-   Right side
+    ![Optional Text](./Mockup/Right-side-Module.png)
 
 # What I learned
 
-- Fetching data from the internet
-- Running asynchronous operations
-- Displaying actionable and contextual data using a backdrop
+-   Fetching data from the internet
+-   Running asynchronous operations
+-   Displaying actionable and contextual data using a backdrop
 
 # API
 
@@ -28,10 +27,10 @@ This project uses the amazing Rick and Morty API. (https://rickandmortyapi.com/)
 
 # Tecnologies
 
-* JavaScript (React Library)
-* CSS
-* HTML
-* BEM
+-   JavaScript (React Library)
+-   CSS
+-   HTML
+-   BEM
 
 # Run locally
 
@@ -40,12 +39,15 @@ For more information about the API check here
 ```
 git clone https://github.com/abiasV/Rick-and-Morty.git
 ```
+
 ```
 cd rick-and-morty
 ```
+
 ```
 npm i
 ```
+
 ```
 npm run dev
 ```
