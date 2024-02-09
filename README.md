@@ -6,9 +6,9 @@ The Rick and Morty API is a RESTful and GraphQL API based on the television show
 
 These are the app's screenshots(follow the route):
 
-- Mockup/header Module.png
-- Mockup/Left side Module.png
-- Mockup/ Right side Module.png
+- ![Optional Text](./Mockup/Header-Module.png)
+- ![Optional Text](Mockup/Left-side-Module.png)
+- ![Optional Text](./Mockup/Header-Module)
 
 # What I learned
 
