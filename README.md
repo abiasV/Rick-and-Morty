@@ -27,14 +27,15 @@ These are the app's screenshots(follow the route):
 
 # API
 
-This project uses the amazing Rick and Morty API. (https://rickandmortyapi.com/)
+This project uses the amazing [Rick and Morty API](https://rickandmortyapi.com).   
 
 # Tecnologies
 
 * JavaScript (React Library)
 * CSS
 * HTML
-* BEM
+* Single-page Web Applications (SPA)
+* Block Element Modifier (BEM)
 
 # Run locally
 
