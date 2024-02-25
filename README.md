@@ -39,8 +39,6 @@ This project uses the amazing [Rick and Morty API](https://rickandmortyapi.com).
 
 # Run locally
 
-For more information about the API check here
-
 ```
 git clone https://github.com/abiasV/Rick-and-Morty.git
 ```
