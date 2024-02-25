@@ -8,7 +8,7 @@ These are the app's screenshots(follow the route):
 
 - Header Website
 
-![Header](./Mockup/Header-Module.png)
+![Header](./Mockup/public/img/Header-Module.png)
 
  - Left side
 
