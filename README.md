@@ -12,11 +12,11 @@ These are the app's screenshots(follow the route):
 
  - Left side
 
-![Left Side](Mockup/Left-side-Module.png)
+![Left Side](Mockup/public/img/Left-side-Module.png)
 
  - Right side
 
-![Right Side](./Mockup/Right-side-Module.png)
+![Right Side](./Mockup/public/img/Right-side-Module.png)
 
 
 # What I learned
