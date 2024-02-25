@@ -17,15 +17,15 @@ These are the app's screenshots(follow the route):
 
 - Header Website
 
-![Header](./Mockup/public/img/Header-Module.png)
+![Header](./public/img/Header-Module.png)
 
  - Left side
 
-![Left Side](Mockup/public/img/Left-side-Module.png)
+![Left Side](./public/img/Left-side-Module.png)
 
  - Right side
 
-![Right Side](./Mockup/public/img/Right-side-Module.png)
+![Right Side](./public/img/Right-side-Module.png)
 
 
 # What I learned
